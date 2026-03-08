@@ -11,10 +11,12 @@ This is a simple Java program that asks the user for their name and prints a gre
 
 ## Example
 
+```
 Enter your name:
 Lewis
 
 Hello Lewis! Welcome to Java.
+```
 
 ## Author
 
